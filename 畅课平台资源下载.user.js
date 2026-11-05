@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         畅课平台资源下载
 // @namespace    https://github.com/chchaoo/tronclass-resource-download-fixed
-// @version      1.0
+// @version      1.0.0
 // @license      MIT
 // @description  为畅课课件增加下载按钮；适配新版附件列表及课件切换。
 // @author       chchaoo

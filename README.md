@@ -2,7 +2,7 @@
 
 为畅课（TronClass）课件添加下载按钮。
 
-**[安装脚本](https://github.com/chchaoo/tronclass-resource-download-fixed/raw/refs/heads/main/%E7%95%85%E8%AF%BE%E5%B9%B3%E5%8F%B0%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD.user.js)** · **[问题反馈](https://github.com/chchaoo/tronclass-resource-download-fixed/issues)**
+**[安装脚本](https://github.com/chchaoo/tronclass-resource-download-fixed/releases/latest/download/%E7%95%85%E8%AF%BE%E5%B9%B3%E5%8F%B0%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD.user.js)** · **[问题反馈](https://github.com/chchaoo/tronclass-resource-download-fixed/issues)**
 
 ## 功能
 
